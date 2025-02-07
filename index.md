@@ -2,7 +2,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-
+```
+print('Hello world')
+```
 
 # This is a H1 header.
 ## This is a bigger header.
