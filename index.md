@@ -1,10 +1,12 @@
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+
 ```
 print('Hello world')
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 # This is a H1 header.
 ## This is a bigger header.
