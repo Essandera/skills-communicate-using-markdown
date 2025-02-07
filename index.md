@@ -1,3 +1,7 @@
+''' Python
+print("Hello world")
+'''
+
 # This is a H1 header.
 ## This is a bigger header.
 (The message above was a lie)
